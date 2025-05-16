@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solle458&theme=ayu_mirage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solle458&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=solle458&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solle458&theme=ayu_mirage&utcOffset=8)
